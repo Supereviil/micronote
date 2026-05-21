@@ -50,8 +50,10 @@ if you need a place to paste something, jot something down, or keep a temporary 
 
 ## screenshots
 
-<img width="391" height="489" alt="screenshot01" src="https://github.com/user-attachments/assets/88a68d9d-6180-4caa-b931-b3fbf7cb574d" />
-  <img width="397" height="432" alt="screenshot02" src="https://github.com/user-attachments/assets/d3f1262e-156d-4973-927f-b118fd42a167" />
+<img width="391" height="489" alt="screenshot01" src="https://github.com/user-attachments/assets/e7af0b54-88cf-4f79-95c1-91f54ee2e27b" />
+<img width="397" height="432" alt="screenshot03" src="https://github.com/user-attachments/assets/7b9993e2-78da-4a65-8b5d-426a142a271c" />
+<img width="370" height="405" alt="screenshot02" src="https://github.com/user-attachments/assets/c977e4df-ce5c-48d5-a06a-fc508aa7a1bb" />
+
 
 
 ---
