@@ -4,7 +4,7 @@ a tiny, always‑ready place for text.
 
 micronote is a lightweight windows utility designed for quick notes, scratch text, and temporary thoughts. it stays out of the way, remembers everything automatically, and fades into the background until you need it again.
 
-🏛️ built with Delphi 🏛️.  
+🏛️ built with Delphi 🏛️  
 no ads, no telemetry, no nonsense.
 
 ---
