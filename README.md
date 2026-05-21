@@ -89,18 +89,6 @@ contributions, forks, and improvements are welcome.
 
 ---
 
-## virustotal
-
-every release of micronote is scanned and verified clean before publishing.
-
-you can view the full report for this build here:
-
-[virustotal scan](https://www.virustotal.com/gui/file/bd2cc6d8c53b2f286b74a9e45ccb30c2133a609186e6775a8bb1e98ea951cadd)
-
-micronote contains no telemetry, no network access, and no background services — just a tiny native windows exe.
-
----
-
 ## license
 
 mit license. see `LICENSE` for details.
