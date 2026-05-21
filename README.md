@@ -51,7 +51,7 @@ if you need a place to paste something, jot something down, or keep a temporary 
 ## screenshots
 
 <img width="391" height="489" alt="screenshot01" src="https://github.com/user-attachments/assets/88a68d9d-6180-4caa-b931-b3fbf7cb574d" />
-<img width="397" height="432" alt="screenshot02" src="https://github.com/user-attachments/assets/d3f1262e-156d-4973-927f-b118fd42a167" />
+  <img width="397" height="432" alt="screenshot02" src="https://github.com/user-attachments/assets/d3f1262e-156d-4973-927f-b118fd42a167" />
 
 
 ---
@@ -90,11 +90,10 @@ contributions, forks, and improvements are welcome.
 ---
 
 ## license
-
-mit license. see `LICENSE` for details.
+MIT license. see `LICENSE` for details.
 
 ---
 
 ## credits
 
-(c) 2026 Superevil Enterprises  
+© 2026 Superevil Enterprises  
