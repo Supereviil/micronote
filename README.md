@@ -91,6 +91,14 @@ contributions, forks, and improvements are welcome.
 
 ---
 
+## support
+
+if micronote is useful to you, consider supporting development:
+
+**https://ko-fi.com/superevil**
+
+---
+
 ## license
 MIT license. see `LICENSE` for details.
 
